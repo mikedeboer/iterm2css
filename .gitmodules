@@ -1,0 +1,3 @@
+[submodule "sources/iterm2-themes"]
+	path = sources/iterm2-themes
+	url = git://github.com/baskerville/iTerm-2-Color-Themes.git
